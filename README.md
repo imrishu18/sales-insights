@@ -19,7 +19,7 @@
 
 ## 🚀 Project Overview  
 
-This project provides **end-to-end sales performance insights** for a computer hardware manufacturer.  
+This project provides **end-to-end sales performance insights** using **SQL, Tableau, and Power BI** for a computer hardware manufacturer.  
 The company faced declining profits and inconsistent sales patterns across regions.  
 As a **Data Analyst**, I performed **data extraction, transformation, analysis, and visualization** to help leadership identify:  
 
